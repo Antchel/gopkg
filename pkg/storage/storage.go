@@ -1,6 +1,6 @@
 package storage
 
-import "github.com/istrel/storage/internal/storage"
+import "github.com/Antchel/gopkg/internal/storage"
 
 func NewStorage() *storage.Storage {
 	return storage.NewStorage()

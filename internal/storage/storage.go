@@ -2,13 +2,12 @@ package storage
 
 import (
 	"fmt"
+	"github.com/Antchel/gopkg/internal/file"
 	"github.com/google/uuid"
-	"github.com/istrel/storage/internal/file"
 )
 
 type Storage struct {
 	files map[uuid.UUID]*file.File
-	fmt.Stringer
 }
 
 func NewStorage() *Storage {

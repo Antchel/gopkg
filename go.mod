@@ -1,4 +1,4 @@
-module github.com/istrel/storage
+module github.com/Antchel/gopkg
 
 go 1.19
 
