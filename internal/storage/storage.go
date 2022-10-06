@@ -2,7 +2,7 @@ package storage
 
 import (
 	"fmt"
-	"github.com/Antchel/gopkg/internal/file"
+	"github.com/Antchel/gopkg/v2/internal/file"
 	"github.com/google/uuid"
 )
 

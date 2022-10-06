@@ -2,6 +2,6 @@ package storage
 
 import "github.com/Antchel/gopkg/internal/storage"
 
-func NewStorage() *storage.Storage {
+func NewStorage(args string) *storage.Storage {
 	return storage.NewStorage()
 }

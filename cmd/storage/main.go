@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/Antchel/gopkg/internal/storage"
+	"github.com/Antchel/gopkg/v2/internal/storage"
 	"log"
 )
 

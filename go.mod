@@ -1,4 +1,4 @@
-module github.com/Antchel/gopkg
+module github.com/Antchel/gopkg/v2
 
 go 1.19
 
